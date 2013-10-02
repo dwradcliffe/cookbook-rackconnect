@@ -7,3 +7,5 @@ name             "rackconnect"
 version          "0.1.0"
 depends          "sudo"
 supports         "centos"
+
+recipe "rackconnect", "Setup the rackconnect sudoers fragment."
