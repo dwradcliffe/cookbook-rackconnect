@@ -1,0 +1,10 @@
+{
+  "sources": {
+    "rackconnect": {
+      "path": "."
+    },
+    "sudo": {
+      "locked_version": "2.2.2"
+    }
+  }
+}
