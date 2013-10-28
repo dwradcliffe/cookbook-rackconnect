@@ -17,8 +17,8 @@
 # limitations under the License.
 #
 
-include_recipe "sudo"
+include_recipe 'sudo'
 
-sudo "rackconnect" do
-  template "rackconnect_sudoers.erb"
+sudo 'rackconnect' do
+  template 'rackconnect_sudoers.erb'
 end
