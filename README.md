@@ -1,6 +1,8 @@
 Description
 ===========
 
+[![Build Status](https://travis-ci.org/dwradcliffe/cookbook-rackconnect.png?branch=master)](https://travis-ci.org/dwradcliffe/cookbook-rackconnect)
+
 This cookbook will setup sudo and the sudoers files to allow rackconnect to do its thing.
 
 Mostly useful if you have other chef cookbooks/recipes that edit/manage sudoers.
